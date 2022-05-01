@@ -3,4 +3,4 @@ Hey what a good name! Yeah very much so. Guess you can expect some FiveM work al
 You can find us *or rather me* [here](https://discord.gg/SqRsSsSskg).
 
 - [x] Create an org on GitHub 🎉
-- [ ] Create my first repository 🤔
+- [x] Create my first repository 🤔
